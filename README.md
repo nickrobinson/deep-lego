@@ -1,2 +1,3 @@
-# deep-lego
-Deep Lego Project - Using AWS DeepLens
+<p align="center">
+  <img src="https://imgur.com/download/HdnScJv"/>
+</p>
